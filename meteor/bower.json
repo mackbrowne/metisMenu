@@ -1,0 +1,23 @@
+{
+  "name": "mackbrowne:metismenu",
+  "authors": [
+    "Mack Browne <mackbrowne@gmail.com>"
+  ],
+  "description": "metismenu plugin for meteor",
+  "main": "package.js",
+  "moduleType": [],
+  "keywords": [
+    "metismenu",
+    "jQuery"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
